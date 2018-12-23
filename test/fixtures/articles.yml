@@ -2,8 +2,18 @@
 
 one:
   title: MyString
-  body: MyText
+  description: MyText
+  content: MyText
+  author: MyString
+  url: MyString
+  url_to_image: MyString
+  published_at: 2018-12-23 14:49:33
 
 two:
   title: MyString
-  body: MyText
+  description: MyText
+  content: MyText
+  author: MyString
+  url: MyString
+  url_to_image: MyString
+  published_at: 2018-12-23 14:49:33
